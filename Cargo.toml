@@ -1,0 +1,6 @@
+[package]
+name = "uas-algoritma-pemograman-switch-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
